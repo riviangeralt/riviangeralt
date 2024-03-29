@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riviangeralt
 - 👀 I’m interested in Gaming.
-- 🌱 I’m a Frontend Web Developer.
+- 🌱 I’m a Frontend Engineer.
 - 📫 Reach me on Instagram @asayyex
 
 <!---
